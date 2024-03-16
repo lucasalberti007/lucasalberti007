@@ -1,5 +1,6 @@
-### Ola 👋
-    Me chamo Lucas Alberti, sou um programador Full-stack, dedicado, atualmente adquirindo conhecimento com o curso DevClub administrado pelo mestre Rodolfo Mori.
+                                                ### Ola 👋
+    Me chamo Lucas Alberti, sou um programador Full-stack, dedicado,
+    atualmente adquirindo conhecimento com o curso DevClub administrado pelo mestre Rodolfo Mori.
     Tenho conhecimento e ja executei projetos das seguintes linguagens:
     
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
